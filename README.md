@@ -1,4 +1,6 @@
-# Frontend Mentor - Product preview card component
+# Ce dépôt a été créé dans le cadre d’exercices réalisés durant une période d’apprentissage. Il sert à confirmer et documenter les progrès accomplis dans divers domaines de développement.
+
+## Frontend Mentor - Product preview card component
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
